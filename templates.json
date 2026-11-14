@@ -1,0 +1,10 @@
+[
+  {"name": "Pink Floral",      "top": "#F8C8DC", "bottom": "#B5527A", "text": "#FFFFFF", "accent": "#FFF1C1"},
+  {"name": "Blue & Gold",      "top": "#1E3A6E", "bottom": "#0B1A33", "text": "#FFFFFF", "accent": "#E6C15A"},
+  {"name": "Sage Cream",       "top": "#A9BFA0", "bottom": "#4F6B4A", "text": "#FFFDF4", "accent": "#F3E6C4"},
+  {"name": "Sunset Gradient",  "top": "#FF9A5A", "bottom": "#8E2E6B", "text": "#FFFFFF", "accent": "#FFE29A"},
+  {"name": "Burgundy Rose",    "top": "#7A1F3D", "bottom": "#2E0A17", "text": "#FFFFFF", "accent": "#F2B8C6"},
+  {"name": "Forest Charcoal",  "top": "#2F4F3A", "bottom": "#151A17", "text": "#FFFFFF", "accent": "#B8D8A8"},
+  {"name": "Coral Teal",       "top": "#FF7F6E", "bottom": "#137C7A", "text": "#FFFFFF", "accent": "#FFF3D6"},
+  {"name": "Lavender Silver",  "top": "#B9A7E0", "bottom": "#5B4E8A", "text": "#FFFFFF", "accent": "#E9E9F2"}
+]
